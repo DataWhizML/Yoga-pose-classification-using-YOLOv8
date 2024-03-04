@@ -1,7 +1,7 @@
 python==3.11.8
 opencv-python
-tensorflow
+tensorflow==2.15.0
 streamlit==1.30.0
-pydantic
-ultralytics
-numpy
+pydantic==2.6.1
+ultralytics==8.1.20
+numpy==1.26.3
