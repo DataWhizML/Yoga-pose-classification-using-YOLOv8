@@ -17,6 +17,7 @@ Ensure you have the following dependencies installed:
 - Pydantic 2.6.1
 - Ultralytics 8.1.20
 - NumPy 1.26.3
+  
 You can install the dependencies using the provided requirements.txt file:
 pip install -r requirements.txt
 
